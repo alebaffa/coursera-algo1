@@ -1,3 +1,6 @@
+import edu.princeton.cs.algs4.*;
+import edu.princeton.cs.introcs.*;
+
 
 
 public class Percolation {

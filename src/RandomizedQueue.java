@@ -1,5 +1,7 @@
 import java.util.Iterator;
 
+import edu.princeton.cs.introcs.StdRandom;
+
 public class RandomizedQueue<Item> implements Iterable<Item> {
 
 	private Item[] items;

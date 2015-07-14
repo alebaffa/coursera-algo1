@@ -2,6 +2,9 @@
 
 import java.awt.Font;
 
+import edu.princeton.cs.introcs.In;
+import edu.princeton.cs.introcs.StdDraw;
+
 public class PercolationVisualizer {
 
     // delay in miliseconds (controls animation speed)

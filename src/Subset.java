@@ -1,3 +1,6 @@
+import edu.princeton.cs.introcs.StdIn;
+import edu.princeton.cs.introcs.StdOut;
+
 public class Subset {
 	public static void main(String[] args) {
 		RandomizedQueue<String> queue = new RandomizedQueue<String>();
